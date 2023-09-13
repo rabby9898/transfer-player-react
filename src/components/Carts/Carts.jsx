@@ -37,7 +37,7 @@ const Carts = () => {
   return (
     <>
       <div className="flex px-28 py-20">
-        <div className="w-4/6 grid grid-cols-1 md:grid-cols-2 justify-items-center gap-6 md:gap-16 lg:gap-24">
+        <div className="w-4/6 grid grid-cols-1 lg:grid-cols-2 justify-items-center gap-4 md:gap-8 lg:gap-24">
           {players.map((player, index) => (
             <Pcart
               key={index}
