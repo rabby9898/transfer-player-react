@@ -1,0 +1,92 @@
+[
+      {
+        "id": 1,
+        "image": "https://i.ibb.co/LZR0SwC/2-MY6-DPE-scaled.jpg",
+        "name": "Trent Alexander-Arnold",
+        "details": "Forward, Portugal National Team",
+        "age": 36,
+        "position": "Forward",
+        "salary": 35
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/s5CrxWD/41-2022-637803782828408362-840.jpg",
+        "name": "Kieran Trippier",
+        "details": "Forward, Paris Saint-Germain",
+        "age": 34,
+        "position": "Forward",
+        "salary": 41
+      },
+      {
+        "id": 3,
+        "image": "https://i.ibb.co/TYWD1yQ/afp-en-379f8edaaa6b22169f91af7859dcc0a1e7c89c4f.jpg",
+        "name": "Jack Butland.",
+        "details": "Forward, Paris Saint-Germain",
+        "age": 29,
+        "position": "Forward",
+        "salary": 20
+      },
+      {
+        "id": 4,
+        "image": "https://i.ibb.co/FzhY4cQ/AN3-LR65-IP5-EAPMXNNLKNHLOGOE.jpg",
+        "name": "Rodri R.",
+        "details": "Forward, Paris Saint-Germain",
+        "age": 22,
+        "position": "Forward",
+        "salary": 54
+      },
+      {
+        "id": 5,
+        "image": "https://i.ibb.co/NsVNMfZ/CR-Arsenal-1097207.webp",
+        "name": "Bukayo Saka",
+        "details": "Midfielder, Manchester City",
+        "age": 30,
+        "position": "Midfielder",
+        "salary": 67
+      },
+      {
+        "id": 6,
+        "image": "https://i.ibb.co/BCc7SH8/e9d9b702fdc410eda6883819274cc8a2.jpg",
+        "name": "Harry Kane",
+        "details": "Defender, Paris Saint-Germain",
+        "age": 35,
+        "position": "Defender",
+        "salary": 110
+      },
+      {
+        "id": 7,
+        "image": "https://i.ibb.co/Fq1V8Y0/fbl-eng-pr-crystal-palace-west-ham.jpg",
+        "name": "Wilfried Zaha",
+        "details": "Forward, Liverpool",
+        "age": 29,
+        "position": "Forward",
+        "salary": 24
+      },
+      {
+        "id": 8,
+        "image": "https://i.ibb.co/rQmYvDd/Gabriel-Jesus.jpg",
+        "name": "Gabriel-Jesus",
+        "details": "Forward, Bayern Munich",
+        "age": 32,
+        "position": "Forward",
+        "salary": 90
+      },
+      {
+        "id": 9,
+        "image": "https://i.ibb.co/56hZyGD/Rashford-MU2-752x428.jpg",
+        "name": "Marcus Rashford",
+        "details": "Forward, Manchester United",
+        "age": 24,
+        "position": "Forward",
+        "salary": 100
+      },
+      {
+        "id": 10,
+        "image": "https://i.ibb.co/N6xYSpJ/thumb2-4k-mason-mount-2022-chelsea-fc-english-footballers.png",
+        "name": "Mason Mount",
+        "details": "Midfielder, Chelsea FC",
+        "age": 23,
+        "position": "Midfielder",
+        "salary": 75
+      }
+    ]
